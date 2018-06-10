@@ -1,2 +1,2 @@
 # UploadImage
-upload image and display dynamically on page using javascript and php
+upload image and video and display dynamically on page using javascript and php
